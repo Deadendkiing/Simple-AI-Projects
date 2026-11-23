@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+imbalanced-learn
+tensorflow
+nltk
+torch
+transformers
+opencv-python
+requests
+pyowm
